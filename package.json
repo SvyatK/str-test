@@ -25,6 +25,8 @@
     "@types/npm": "^2.0.29",
     "@types/socket.io": "^1.4.38",
     "blink-diff": "^1.0.13",
+    "bmp-js": "^0.1.0",
+    "buffer-xor": "^2.0.2",
     "ffmpeg": "0.0.4",
     "fluent-ffmpeg": "^2.1.2",
     "pixelmatch": "^4.0.2",
